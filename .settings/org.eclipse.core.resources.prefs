@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//Controller/controller/CTHDController.java=UTF-8
+encoding//Controller/controller/giohangController.java=UTF-8
+encoding//Controller/controller/hoadonController.java=UTF-8
+encoding//Model/dao/Myphamdao.java=UTF-8
+encoding//Model/dao/dangnhapdao.java=UTF-8
+encoding//Model/dao/khachhangdao.java=UTF-8
+encoding//Model/dao/lichsudao.java=UTF-8
+encoding//WebContent/DangNhap.jsp=UTF-8
+encoding//WebContent/giohang.jsp=UTF-8
+encoding//WebContent/htgio.jsp=UTF-8
+encoding//WebContent/lichsu.jsp=UTF-8
+encoding//WebContent/menu.jsp=UTF-8
